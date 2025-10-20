@@ -40,7 +40,7 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
 <!-- Social Links -->
 <div align="center" style="margin-top:12px; display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
   <a href="mailto:diyaanajadwat1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&labelColor=0D1117&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/diyaana-jadwat-984649340/">
     <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
