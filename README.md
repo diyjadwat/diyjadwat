@@ -8,7 +8,7 @@
     <a href="https://github.com/diyjadwat">Diyaana Jadwat</a>
     <img src="assets/wave.gif" width="28" alt="wave">
   </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Developer;Designer;Student" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=500&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Integration+Engineer;UI/UX+Engineer;Full-Stack+Developer" alt="Typing SVG">
   <br>
 </div>
 
@@ -107,11 +107,12 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
       </td>
     </tr>
   </table>
-  <picture>
+</p>
+
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyjadwat/diyjadwat/output/github-contribution-grid-snake-dark.svg">
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diyjadwat/diyjadwat/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
 
 <br>
 <img src="assets/line-neon.gif" width="100%" alt="divider">
