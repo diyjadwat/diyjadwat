@@ -35,13 +35,19 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
   </a>
 </div>
 
+<br>
+
 <!-- Social Links -->
-<div align="center" style="margin-top:12px">
-  <a href="mailto:diyaanajadwat1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/diyaana-jadwat-984649340/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="assets/CV-Diyaana-Jadwat.docx.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-7C3AED?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=0D1117" />
-</a>
+<div align="center" style="margin-top:12px; display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+  <a href="mailto:diyaanajadwat1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/diyaana-jadwat-984649340/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="assets/Diyaana_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-7C3AED?style=for-the-badge&logo=adobeacrobat&logoColor=white&labelColor=0D1117" />
+  </a>
 </div>
 
 <br>
@@ -110,7 +116,6 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
     </tr>
   </table>
 </p>
-
 
 <br>
 <div align="center">
