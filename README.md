@@ -8,7 +8,7 @@
     <a href="https://github.com/diyjadwat">Diyaana Jadwat</a>
     <img src="assets/wave.gif" width="28" alt="wave">
   </h1>
-  <p><em>Developer. Designer. Student.</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Developer;Designer;Student" alt="Typing SVG">
   <br>
 </div>
 
@@ -92,6 +92,7 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
 <!-- Github Stats -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;<strong>GitHub Stats</strong>
+<img src="assets/thin-line-neon.gif">
 <br>
 
 <p align="center">
@@ -106,16 +107,11 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
       </td>
     </tr>
   </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyjadwat/diyjadwat/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diyjadwat/diyjadwat/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<br>
-
-<!-- Visitor Counter -->
-<div align="center" style="display:flex; align-items:center; justify-content:center;">
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28" />
-  <img src="https://profile-counter.glitch.me/diyjadwat/count.svg" />
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28" />
-</div>
 
 <br>
 <img src="assets/line-neon.gif" width="100%" alt="divider">
