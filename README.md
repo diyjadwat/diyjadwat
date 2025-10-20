@@ -113,7 +113,7 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
 <!-- Visitor Counter -->
 <div align="center" style="display:flex; align-items:center; justify-content:center;">
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28" />
-  ![Visitor Count](https://profile-counter.glitch.me/diyjadwat/count.svg)
+  <img src="https://profile-counter.glitch.me/diyjadwat/count.svg" />
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28" />
 </div>
 
