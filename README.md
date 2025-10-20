@@ -15,7 +15,7 @@
 
 <!-- About me -->
 
-<img src="assets/about_me.gif" width="35" alt="about me">&nbsp; <strong>About me</strong>
+<img src="assets/about_me.gif" width="32" alt="about me">&nbsp; <strong>About me</strong>
 
 <img align="right" width="200px" alt="fun-gif" src="assets/work.gif"/>
 
