@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Presentation -->
+<div align="center">
+  <!-- Banner image hosted in your repo or externally; replace path if different -->
+  <img src="assets/line-neon.gif" width="100%" alt="banner">
 
-<!--
-**diyjadwat/diyjadwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>
+    <b>Hi there, I'm</b>
+    <a href="https://github.com/diyjadwat">Diyaana Jadwat</a>
+    <img src="assets/wave.gif" width="28" alt="wave">
+  </h1>
+  <p><em>Developer. Designer. Student.</em></p>
+  <br>
+</div>
