@@ -47,8 +47,6 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
 <img src="assets/tags.gif" width="30">&nbsp; <strong>Skills</strong>
 <img src="assets/thin-line-neon.gif">
 
-<br>
-
 ###### Languages & Syntax:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -115,7 +113,7 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
 <!-- Visitor Counter -->
 <div align="center" style="display:flex; align-items:center; justify-content:center;">
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28" />
-  <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=diyjadwat%2Fdiyjadwat" />
+  ![Visitor Count](https://profile-counter.glitch.me/diyjadwat/count.svg)
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28" />
 </div>
 
