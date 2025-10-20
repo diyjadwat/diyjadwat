@@ -1,6 +1,5 @@
 <!-- Presentation -->
 <div align="center">
-  <img src="assets/banner.gif" width="100%" alt="banner">
   <img src="assets/line-neon.gif" width="100%" alt="neon-line">
 
   <h1>
@@ -110,5 +109,9 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
 </p>
 
 
+<br>
+<div align="center">
+    <img src="assets/banner.gif" width="100%" alt="banner">
+<div/>
 <br>
 <img src="assets/line-neon.gif" width="100%" alt="divider">
