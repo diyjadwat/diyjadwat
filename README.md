@@ -109,14 +109,6 @@ I am an **Information and Knowledge Systems (Data Science)** in the final stages
   </table>
 </p>
 
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyjadwat/diyjadwat/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diyjadwat/diyjadwat/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 
 <br>
 <img src="assets/line-neon.gif" width="100%" alt="divider">
